@@ -1,0 +1,2 @@
+# COMP_6721_Project_GroupS
+COMP_6721_Applied_AI_Project
