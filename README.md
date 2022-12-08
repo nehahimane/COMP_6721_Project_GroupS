@@ -90,6 +90,7 @@ Run Transfer Learning Model:
     2) Now use this model for Testing on sample test dataset
 2) Without Transfer Learning
   1) Load the saved model using below Code:
+  
           #model_name = ['alexnet', 'vgg19', 'mobilenet_v2']
           model = torch.hub.load('pytorch/vision:v0.10.0', <model name>)
           model.load_state_dict(torch.load(<google drive link for .pt file>))
@@ -97,6 +98,7 @@ Run Transfer Learning Model:
           print("Device: {}".format(device))
           model.to(device)
           model.eval()
+          
   2) Now use this model for Testing on sample test dataset
   
 - Your source code package in PyTorch
