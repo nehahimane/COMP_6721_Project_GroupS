@@ -3,10 +3,10 @@ COMP_6721_Applied_AI_Project
 
 ## Group members
 
-1) Neha Himane
-2) Yash Bhavsar
-3) Hardik Amareliya
-4) Jeet Ambaliya
+1) Neha Himane - 40219032
+2) Yash Bhavsar - 40219504
+3) Hardik Amareliya - 40216854
+4) Jeet Ambaliya - 40221712
 
 - Project : Facial Expression Recognition
 
